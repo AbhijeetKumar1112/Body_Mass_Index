@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="Hint_Weight">Enter Weight(In Kgs)</string>
+    <string name="Hint_HeightFt">Enter Height(In Feet)</string>
+    <string name="Hint_HeightIn">Enter Height(In Inch)</string>
+    <string name="Result">Result</string>
+    <string name="CalculateBtn">Calculate BMI</string>
+    <string name="head">BODY MASS INDEX</string>
+
+</resources>
